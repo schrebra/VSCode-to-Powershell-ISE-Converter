@@ -3,8 +3,7 @@
 This script transforms Visual Studio Code into a 1-to-1 replica of the classic PowerShell ISE. It is designed for users who want the modern IntelliSense of VS Code but absolutely none of the modern "IDE" bloat, AI features, or internet-connected distractions. 
 It operates on a "pretend this is an offline system" philosophy, ripping out cloud-connected tools and enforcing a clean, distraction-free environment.
 
-<img width="60%" alt="image" src="https://github.com/user-attachments/assets/42f258a1-e310-4e0e-b279-ca4e1a1e361e" />
-
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/e0532f09-b146-4505-a6d3-6761b23a4b3a" />
 
 ## 🚀 What This Script Does
 
